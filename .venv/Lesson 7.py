@@ -48,5 +48,5 @@ for number in numbers:
         min = number
     if number > max:
         max = number
-print(f"Min number: {min}")
-print(f"Max number: {max}")
+print(f"Min number: {min num}")
+print(f"Max number: {max num}")
